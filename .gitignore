@@ -34,3 +34,6 @@ yarn-error.log*
 # typescript
 *.tsbuildinfo
 next-env.d.ts
+
+chatgpt-clone-d08ae-firebase-adminsdk-kbahe-a6bfdb72ae.json
+.env
